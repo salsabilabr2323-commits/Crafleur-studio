@@ -1,0 +1,150 @@
+.warna1{
+ background-color: #ffd5d5;
+}
+
+.warna2{
+    background-color: #ffe0d9;
+}
+
+.warna3{
+    background-color: #ffe0d9;
+}
+
+.warna4{
+    background-color: #ffe0d9;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../image/Banner.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-bouquet-kawat{
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../image/2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kategori-gantungan-kawat{
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../image/1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kategori-bouquet-bunga{
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../image/4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kategori-bouquet-snack{
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../image/5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.highlighted-kategori a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.no-decoration:hover{
+    color: #ffd5d5 !important;
+}
+
+.text-harga{
+    font-size: 22px;
+    color: rgb(181, 130, 116);
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subsribe {
+    background-color: rgb(255, 201, 186);
+}
+
+.content-subsribe a {
+    color: white !important;
+}
+.content-subsribe a:hover {
+    color: #daa7a7 !important;
+}
+
+.banner-produk{
+    height: 30vh;
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../image/Banner.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+p.fs-5 {
+    line-height: 1.6;
+}
+
+.produk-terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.list-group-item {
+    color: black !important;
+}
+
+.list-group-item:hover {
+    background-color: #ffd5d5 !important;
+    color: white !important;
+}
+
+.list-group a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.warna1 .nav-link {
+  color: #8b5e53 !important; 
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.warna1 .nav-link:hover {
+  color: #6d433a !important; 
+  font-weight: 600;
+}
+
+.warna1 .nav-link.active {
+  color: #6d433a !important; 
+  font-weight: 600;
+}
+
+.warna1 .nav-link,
+.warna1 .nav-link:hover,
+.warna1 .nav-link.active {
+  text-decoration: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
